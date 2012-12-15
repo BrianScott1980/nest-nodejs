@@ -1,6 +1,6 @@
 {
   "name": "nest-thermostat",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "author": "Devon Crouse <devoncrouse@gmail.com>",
   "description": "A library for communicating with the Nest thermostat API",
   "keywords": [
@@ -18,7 +18,6 @@
     "node": "*"
   },
   "dependencies": {
-    "https": "*",
     "util": "*",
     "querystring": "*",
     "url": "*"
