@@ -6,7 +6,7 @@ This project provides a library for communicating with the Nest thermostat API.
 
 ## Install
 
-npm install nest
+npm install nest-thermostat
 
 ## Use
 
